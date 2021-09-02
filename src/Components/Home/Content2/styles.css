@@ -1,0 +1,15 @@
+.text-purple{
+    color: purple;
+}
+
+.button-pink{
+    background-color: palevioletred;
+}
+
+.button-pink:hover{
+    background-color: indigo;
+}
+
+.img-curve{
+    border-radius: 15px;
+}

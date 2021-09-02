@@ -1,0 +1,14 @@
+{
+    "Rapid_Test": [
+        {
+            "id": 1,
+            "question": "What is your name ?",
+            "answer": "Aster"
+        },
+        {
+            "id": 2,
+            "question": "What is your age ?",
+            "answer": "20"
+        }
+    ]
+}

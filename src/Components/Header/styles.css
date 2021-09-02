@@ -1,0 +1,17 @@
+.text-pink{
+    color: palevioletred;
+}
+
+.text-indigo{
+    color: indigo;
+}
+
+.buttonCss{
+    border-color: palevioletred;
+    color: palevioletred;
+}
+
+.buttonCss:hover{
+    background-color: indigo;
+    color: white;
+}

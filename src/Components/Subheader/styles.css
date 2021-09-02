@@ -1,0 +1,17 @@
+.text-indigo{
+    color: indigo;
+}
+
+.text-indigo:hover{
+    color: lightseagreen;
+}
+
+.dropdown-item-background{
+    color: indigo;
+    background-color: rgb(186, 198, 212);
+}
+
+.dropdown-item-background:hover{
+    color: white;
+    background-color: palevioletred;
+}
